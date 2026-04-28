@@ -1,4 +1,4 @@
-# Hi, I'm Vishnu Reddy
+# Hi, I'm Vishnu Vardhan Reddy
 
 **AI & ML Student** — I build things to learn, and learn by building things.
 
