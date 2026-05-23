@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner - fixed: replaced & with %26 in desc param -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishnu%20Vardhan%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=twinkling" />
+# Vishnu Vardhan Reddy
+### AI &amp; ML Engineer | Building Intelligent Systems
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -126,7 +126,7 @@ Got an idea? A dataset? A half-baked project that needs an ML brain? Let's talk.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
 
 *"The best way to understand intelligence is to build it."*
 
