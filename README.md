@@ -33,10 +33,6 @@ vishnu = {
 }
 ```
 
-> 🚀 Currently building **VisionLab** — specializing in **Predictive Analytics** & **Quantitative Reasoning**
-
----
-
 ## 🛠️ What I've Built
 
 | 🔗 Project | 💡 What it does |
