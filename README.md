@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Animated Header Banner - fixed: replaced & with %26 in desc param -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishnu%20Vardhan%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=twinkling" />
 
 <!-- Typing Animation -->
@@ -88,13 +88,14 @@ vishnu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy1210&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+| Metric | Value |
+|--------|-------|
+| 🔥 Total Contributions | 70 (Feb 4 – Present) |
+| ⚡ Current Streak | 1 day (May 23) |
+| 🏆 Longest Streak | 5 days (Apr 20 – Apr 24) |
 
-</div>
+[![GitHub Profile](https://img.shields.io/badge/View_Full_Stats_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnureddy1210)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnureddy1210&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
