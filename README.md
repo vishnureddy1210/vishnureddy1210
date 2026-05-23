@@ -1,49 +1,132 @@
-# Hi, I'm Vishnu Vardhan Reddy
+<div align="center">
 
-**AI & ML Student** — I build things to learn, and learn by building things.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishnu%20Vardhan%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=twinkling" />
 
-Currently focused on **Retrieval-Augmented Generation (RAG)**, NLP pipelines, and real-world ML applications.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=I+build+things+to+learn...;...and+learn+by+building+things.;RAG+Pipelines+%7C+NLP+%7C+Computer+Vision;Turning+Data+into+Decisions+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnureddy3343-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnureddy3343)
+[![Gmail](https://img.shields.io/badge/Gmail-ravipativishnuvardhanreddy-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravipativishnuvardhanreddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vishnureddy1210-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnureddy1210)
+
+</div>
 
 ---
 
-### 🔨 What I've Built
+## 🧠 About Me
 
-| Project | What it does |
+```python
+vishnu = {
+    "name"       : "Vishnu Vardhan Reddy",
+    "role"       : "AI & ML Engineer | Graduate Scholar",
+    "institute"  : "Annamacharya Institute of Technology & Sciences, Kadapa",
+    "location"   : "Cuddahpah, Andhra Pradesh, India 🇮🇳",
+    "focus"      : ["RAG Pipelines", "NLP", "Computer Vision", "Big Data"],
+    "philosophy" : "I build things to learn, and learn by building things.",
+    "contact"    : "ravipativishnuvardhanreddy@gmail.com"
+}
+```
+
+> 🚀 Currently building **VisionLab** — specializing in **Predictive Analytics** & **Quantitative Reasoning**
+
+---
+
+## 🛠️ What I've Built
+
+| 🔗 Project | 💡 What it does |
 |---|---|
-| [**rag-chatbot-fastapi**](https://github.com/vishnureddy1210/rag-chatbot-fastapi) | ⭐ RAG-powered chatbot served via FastAPI — my main project |
-| [**rag-chatbot**](https://github.com/vishnureddy1210/rag-chatbot) | Core RAG pipeline with document retrieval and LLM response |
-| [**plant-disease-detector**](https://github.com/vishnureddy1210/plant-disease-detector) | CNN model that identifies plant diseases from leaf images |
-| [**sentiment-engine**](https://github.com/vishnureddy1210/sentiment-engine) | Sentiment analysis engine built from scratch |
-| [**twitter-sentiment-pipeline**](https://github.com/vishnureddy1210/twitter-sentiment-pipeline-) | End-to-end pipeline for real-time Twitter sentiment |
-| [**titanic-data-explorer**](https://github.com/vishnureddy1210/titanic-data-explorer) | Deep EDA on the Titanic dataset with visual insights |
-| [**house-price-prediction**](https://github.com/vishnureddy1210/house-price-prediction) | Regression model to predict housing prices |
+| [⭐ rag-chatbot-fastapi](https://github.com/vishnureddy1210/rag-chatbot-fastapi) | RAG-powered chatbot served via FastAPI — my flagship project |
+| [rag-chatbot](https://github.com/vishnureddy1210/rag-chatbot) | Core RAG pipeline with document retrieval & LLM response |
+| [plant-disease-detector](https://github.com/vishnureddy1210/plant-disease-detector) | CNN model that identifies plant diseases from leaf images |
+| [sentiment-engine](https://github.com/vishnureddy1210/sentiment-engine) | Sentiment analysis engine built from scratch |
+| [twitter-sentiment-pipeline](https://github.com/vishnureddy1210/twitter-sentiment-pipeline-) | End-to-end pipeline for real-time Twitter sentiment |
+| [titanic-data-explorer](https://github.com/vishnureddy1210/titanic-data-explorer) | Deep EDA on the Titanic dataset with visual insights |
+| [house-price-prediction](https://github.com/vishnureddy1210/house-price-prediction) | Regression model to predict housing prices |
+| [image-background-remover](https://github.com/vishnureddy1210/image-background-remover) | Automated background removal using deep segmentation |
+| [text-summarizer](https://github.com/vishnureddy1210/text-summarizer) | Abstractive & extractive text summarization pipeline |
+| [expense-tracker](https://github.com/vishnureddy1210/expense-tracker) | Smart expense tracking with analytics |
 
 ---
 
-### 🧰 Stack
+## ⚙️ Tech Stack
 
-`Python` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `TensorFlow` &nbsp;·&nbsp; `HuggingFace` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy`
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**AI / ML Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=for-the-badge&logo=meta&logoColor=white)
+
+**Data & Cloud**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy1210&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy1210&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-### 🌱 Currently Exploring
+</div>
 
-- LLM fine-tuning & prompt engineering
-- MLOps — deploying models to production
-- Agentic AI with LangChain & LlamaIndex
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnureddy1210&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-*Always open to collaborate on interesting ML/AI projects.*
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/github-vishnureddy1210-333?style=flat-square&logo=github)](https://github.com/vishnureddy1210)
+## 🤝 Open to Collaborate On
+
+- 🔬 **RAG / LLM applications** — retrieval pipelines, agents, chatbots
+- 🌿 **Computer Vision** — disease detection, segmentation, object recognition
+- 📊 **NLP projects** — sentiment analysis, summarization, text classification
+- 🏗️ **Real-world ML systems** — end-to-end deployable AI apps
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+Got an idea? A dataset? A half-baked project that needs an ML brain? Let's talk.
+
+**📧 ravipativishnuvardhanreddy@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnureddy3343)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravipativishnuvardhanreddy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+*"The best way to understand intelligence is to build it."*
+
+</div>
