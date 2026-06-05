@@ -19,9 +19,11 @@
 
 ## `$ whoami`
 
-**AI & ML Engineer building production-grade intelligent systems —**
-**RAG pipelines, LLMs, Computer Vision, and NLP, end-to-end.**
-**Based in Andhra Pradesh, India. Open to collaborations and real-world AI projects.**
+### AI & ML Engineer who builds intelligent systems that actually ship.
+
+- 🎓 &nbsp;Pursuing B.Tech at **Annamacharya Institute of Technology & Sciences, Kadapa** — specializing in AI & ML
+- 🔭 &nbsp;Building across **RAG pipelines · LLMs · Computer Vision · NLP** — from research to deployed inference
+- 🤝 &nbsp;Open to **collaborations, research projects, and real-world AI systems** — got an idea? let's talk
 
 ---
 
@@ -113,13 +115,17 @@ DEVOPS        FastAPI · Docker · Git · Streamlit
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=github_dark&hide_border=true&title_color=6C63FF&icon_color=00D9A3&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=github_dark&hide_border=true&title_color=6C63FF&icon_color=00D9A3&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy1210&layout=compact&theme=github_dark&hide_border=true&title_color=6C63FF&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddy1210&layout=compact&theme=github_dark&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0d1117&langs_count=6" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vishnureddy1210&theme=github-dark-blue&hide_border=true&ring=6C63FF&fire=00D9A3&currStreakLabel=6C63FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnureddy1210&theme=github-dark-blue&hide_border=true&ring=6C63FF&fire=00D9A3&currStreakLabel=6C63FF&background=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnureddy1210&theme=github-compact&hide_border=true&color=6C63FF&line=00D9A3&point=ffffff&bg_color=0d1117" />
 
 </div>
 
