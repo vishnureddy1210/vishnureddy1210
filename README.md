@@ -20,7 +20,7 @@
 
 ### AI & ML Engineer who builds intelligent systems that actually ship.
 
-- 🎓 &nbsp;B.Tech at **Annamacharya Institute of Technology & Sciences, Kadapa**
+- 🎓 &nbsp;B.Tech at **Annamacharya Institute of Technology & Sciences**
 - 🔭 &nbsp;Working across **RAG pipelines · LLMs · Computer Vision · NLP**
 - 🤝 &nbsp;Open to **collaborations, research, and real-world AI systems**
 
