@@ -32,17 +32,7 @@
 |---|---|---|
 | [**★ rag-chatbot-fastapi**](https://github.com/vishnureddy1210/rag-chatbot-fastapi) | Production RAG chatbot — ingestion, vector search, LLM response | `FastAPI` `FAISS` `LangChain` `HuggingFace` |
 | [rag-chatbot](https://github.com/vishnureddy1210/rag-chatbot) | Core RAG pipeline — chunking, retrieval, LLM-driven answers | `LangChain` `FAISS` `Python` |
-| [plant-disease-detector](https://github.com/vishnureddy1210/plant-disease-detector) | CNN classifier for plant disease ID from leaf images | `TensorFlow` `OpenCV` `CNN` |
-| [sentiment-engine](https://github.com/vishnureddy1210/sentiment-engine) | Sentiment analysis engine built from first principles | `PyTorch` `Scikit-Learn` |
-| [twitter-sentiment-pipeline](https://github.com/vishnureddy1210/twitter-sentiment-pipeline-) | End-to-end real-time Twitter sentiment pipeline | `Tweepy` `Pandas` `Scikit-Learn` |
-| [image-background-remover](https://github.com/vishnureddy1210/image-background-remover) | Automated background removal via deep segmentation | `PyTorch` `OpenCV` `U-Net` |
-| [text-summarizer](https://github.com/vishnureddy1210/text-summarizer) | Abstractive and extractive summarization pipeline | `Transformers` `HuggingFace` |
-| [flipkart-price-alert](https://github.com/vishnureddy1210/flipkart-price-alert) | Price scraper that fires email alerts on product drops | `BeautifulSoup` `SMTP` |
-| [house-price-prediction](https://github.com/vishnureddy1210/house-price-prediction) | Regression pipeline predicting housing prices | `Scikit-Learn` `Pandas` `NumPy` |
-| [titanic-data-explorer](https://github.com/vishnureddy1210/titanic-data-explorer) | Deep EDA with layered visual insights | `Pandas` `Matplotlib` `Seaborn` |
-| [expense-tracker](https://github.com/vishnureddy1210/expense-tracker) | Personal finance tracker with analytics dashboard | `Streamlit` `Python` |
 
----
 
 ### Stack
 
