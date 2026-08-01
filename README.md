@@ -46,20 +46,6 @@ DevOps       FastAPI  ·  Docker  ·  Git  ·  Streamlit
 
 ---
 
-### Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vishnureddy1210&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true&include_all_commits=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnureddy1210&theme=github-dark-blue&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&background=0d1117&dates=555555" />
-
-</div>
-
----
-
 ### Open to
 
 `RAG / LLM Systems` &nbsp; `Computer Vision` &nbsp; `NLP` &nbsp; `End-to-End ML`
